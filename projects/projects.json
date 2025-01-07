@@ -10,7 +10,7 @@
   },
   {
     "name": "YouQuiz",
-    "desc": "YouQuiz is a Spring Boot app for managing exams and quizzes, allowing trainers to create, schedule, and administer assessments, and students to retake exams as needed.",
+    "desc": "YouQuiz is a Spring Boot app for managing quizzes and exams.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
@@ -19,7 +19,7 @@
   },
   {
     "name": "WaitingRoom",
-    "desc": "WRM is a REST API for managing waiting rooms, designed to organize and control visitor flows in places like medical offices, public services, or businesses.",
+    "desc": "WRM is a REST API for managing waiting rooms and organizing visitor flows in offices, services, or businesses.",
     "image": "resumegen",
     "category": "mern",
     "links": {
@@ -28,7 +28,7 @@
   },
   {
     "name": "E-Banking",
-    "desc": "E-Banking is a REST API project using Spring Security with Basic Authentication, ensuring role-based access control and robust user management.",
+    "desc": "E-Banking is a REST API with Spring Security, offering role-based access and user management.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
@@ -37,7 +37,7 @@
   },
   {
     "name": "ITLens",
-    "desc": "ITLens : API REST dédiée à la gestion de sondages pour le secteur IT, permettant la création de sondages structurés, la collecte des réponses, et l'analyse des résultats en temps réel. Conçue avec Spring Boot et une base de données relationnelle.",
+    "desc": "ITLens is a REST API for managing IT surveys, enabling survey creation, response collection, and real-time analysis.",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
@@ -46,7 +46,7 @@
   },
   {
     "name": "Bati-Cuisine",
-    "desc": "Bati-Cuisine is a Java application designed for construction and kitchen renovation professionals, enabling cost estimation for projects by factoring in materials, labor, and logistics for efficient project management.",
+    "desc": "Bati-Cuisine is a Java app for estimating construction and renovation costs.",
     "image": "jspro",
     "category": "basicweb",
     "links": {

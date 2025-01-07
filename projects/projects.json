@@ -9,53 +9,48 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "YouQuiz",
+    "desc": "YouQuiz is a Spring Boot application for managing online exams and quizzes, enabling trainers to easily create, schedule, and administer assessments, while allowing students to take exams multiple times as needed.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "code": "https://github.com/J-Maryam/YouQuiz"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "name": "WaitingRoom",
+    "desc": "WRM est une API REST pour la gestion des salles d'attente, développée pour organiser et gérer les flux de visiteurs dans divers types d'établissements tels que des cabinets médicaux, des services publics ou des entreprises.",
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "code": "https://github.com/J-Maryam/WaitingRoom"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "E-Banking",
+    "desc": "E-Banking is a REST API project using Spring Security with Basic Authentication, ensuring role-based access control and robust user management.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "code": "https://github.com/J-Maryam/eBanking"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "ITLens",
+    "desc": "ITLens : API REST dédiée à la gestion de sondages pour le secteur IT, permettant la création de sondages structurés, la collecte des réponses, et l'analyse des résultats en temps réel. Conçue avec Spring Boot et une base de données relationnelle.",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "code": "https://github.com/J-Maryam/ITLens"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "Bati-Cuisine",
+    "desc": "Bati-Cuisine is a Java application designed for construction and kitchen renovation professionals, enabling cost estimation for projects by factoring in materials, labor, and logistics for efficient project management.",
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "code": "https://github.com/J-Maryam/Bati-Cuisine"
     }
   }
   ]

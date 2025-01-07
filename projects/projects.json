@@ -10,7 +10,7 @@
   },
   {
     "name": "YouQuiz",
-    "desc": "YouQuiz is a Spring Boot application for managing online exams and quizzes, enabling trainers to easily create, schedule, and administer assessments, while allowing students to take exams multiple times as needed.",
+    "desc": "YouQuiz is a Spring Boot app for managing exams and quizzes, allowing trainers to create, schedule, and administer assessments, and students to retake exams as needed.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
@@ -19,7 +19,7 @@
   },
   {
     "name": "WaitingRoom",
-    "desc": "WRM est une API REST pour la gestion des salles d'attente, développée pour organiser et gérer les flux de visiteurs dans divers types d'établissements tels que des cabinets médicaux, des services publics ou des entreprises.",
+    "desc": "WRM is a REST API for managing waiting rooms, designed to organize and control visitor flows in places like medical offices, public services, or businesses.",
     "image": "resumegen",
     "category": "mern",
     "links": {

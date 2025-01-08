@@ -11,7 +11,7 @@
   {
     "name": "YouQuiz",
     "desc": "YouQuiz is a Spring Boot app for managing quizzes and exams.",
-    "image": "flipkartmern",
+    "image": "youquiz",
     "category": "mern",
     "links": {
       "code": "https://github.com/J-Maryam/YouQuiz"
@@ -20,7 +20,7 @@
   {
     "name": "WaitingRoom",
     "desc": "WRM is a REST API for managing waiting rooms and organizing visitor flows in offices, services, or businesses.",
-    "image": "resumegen",
+    "image": "wrm",
     "category": "mern",
     "links": {
       "code": "https://github.com/J-Maryam/WaitingRoom"
@@ -29,7 +29,7 @@
   {
     "name": "E-Banking",
     "desc": "E-Banking is a REST API with Spring Security, offering role-based access and user management.",
-    "image": "reactprojects",
+    "image": "ebanking",
     "category": "mern",
     "links": {
       "code": "https://github.com/J-Maryam/eBanking"
@@ -38,7 +38,7 @@
   {
     "name": "ITLens",
     "desc": "ITLens is a REST API for managing IT surveys, enabling survey creation, response collection, and real-time analysis.",
-    "image": "flipkartphp",
+    "image": "stateOfDev",
     "category": "lamp",
     "links": {
       "code": "https://github.com/J-Maryam/ITLens"
@@ -47,7 +47,7 @@
   {
     "name": "Bati-Cuisine",
     "desc": "Bati-Cuisine is a Java app for estimating construction and renovation costs.",
-    "image": "jspro",
+    "image": "cuisine",
     "category": "basicweb",
     "links": {
       "code": "https://github.com/J-Maryam/Bati-Cuisine"
